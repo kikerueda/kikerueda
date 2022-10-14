@@ -1,5 +1,5 @@
 <div align='center'>
-<img align="center" width="27%" src="https://media2.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif?cid=ecf05e47snfz27bybtcgpmkv4y3qetkx66a1eaxmu7i172dj&rid=giphy.gif&ct=g)"/> 
+<img align="center" width="27%" src="https://media2.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif?cid=ecf05e47snfz27bybtcgpmkv4y3qetkx66a1eaxmu7i172dj&rid=giphy.gif&ct=g"/> 
 </div>
 <h1 align="center">Hi,Welcome!!👋, I'm Kike Rueda</h1>
 <h3 align="center">A passionate student of Web Application Development from Spain</h3>
